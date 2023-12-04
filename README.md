@@ -2,6 +2,8 @@
 
 En este repositorio se encuentran todas las actividades realizadas en la Concentración Inteligencia Artificial Avanzada para la Ciencia de Datos. 
 
+Alumno: Mario Alberto Castañeda Martínez - A01640152
+
 Cada actividad fue realizada para un determinado Módulo de la Concentración, por lo que a continuación se nombrará a cada módulo y las actividades/archivos que pertenecen a él.
 
 **Modulo 1. Big Data:**
